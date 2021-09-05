@@ -1,0 +1,16 @@
+{
+  "name": "mono",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DawidGaleziewski/yarn_udemy.git",
+  "author": "Dawid Gałęziewski <dawid.galeziewski.dev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@monorepo/common": "1.0.0",
+    "@monorepo/server": "1.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

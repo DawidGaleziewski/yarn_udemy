@@ -1,0 +1,22 @@
+{
+  "name": "1_test_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "greet": "echo Hello World",
+    "start": "node ./server.js",
+    "mod": "yarn config set save-prefix"
+  },
+  "dependencies": {
+    "2_test_published_yarn": "~1.0.0",
+    "angular": "~1.8.2",
+    "express": "~4.17.1",
+    "jquery": "3.0.0",
+    "jshint": "~2.13.1",
+    "react": "~17.0.2",
+    "riot": "~6.0.3",
+    "underscore": "~1.13.1"
+  },
+  "devDependencies": {}
+}
