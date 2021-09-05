@@ -1,0 +1,12 @@
+{
+  "name": "2_test_published_yarn",
+  "version": "1.1.0",
+  "main": "test.js",
+  "license": "MIT",
+  "description": "test package",
+  "repository": "https://github.com/my_repo",
+  "author": "Dawid Gal",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
